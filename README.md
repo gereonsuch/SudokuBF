@@ -4,15 +4,15 @@ Solves a 9x9 Sudoku with a Qt based GUI
 To compile on Linux Systems execute in project folder
 Qt > v4 needs to be installed 
 
-  $ mkdir bin
-  $ cd bin
-  $ qmake ..
-  $ make
+   $ mkdir bin
+   $ cd bin
+   $ qmake ..
+   $ make
 
 
 Enter
 
-  $ ./SudokuBF
+   $ ./SudokuBF
   
 to execute.
 
