@@ -97,7 +97,7 @@ MainWindow::MainWindow(QWidget *parent) :
     for(int i=0;i<a.size();i++)
         boxes[i]->setValue(a[i]);*/
 
-    set_status();
+    //set_status();
     setWindowTitle("SudokuBF");
 }
 
