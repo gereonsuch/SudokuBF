@@ -21,3 +21,5 @@ to execute.
 
 
 The code is free software and may be used, reused, changed or cited by everyone for every purpose without concent or notice to the copyright holder. 
+
+Addition: set_status() is a feature for a friend ;)
