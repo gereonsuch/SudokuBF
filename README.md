@@ -5,8 +5,11 @@ To compile on Linux Systems execute in project folder
 Qt > v4 needs to be installed 
 
    $ mkdir bin
+   
    $ cd bin
+   
    $ qmake ..
+   
    $ make
 
 
