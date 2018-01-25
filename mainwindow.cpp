@@ -294,7 +294,7 @@ state MainWindow::get_state(std::vector<std::set<char> > &v){
 
 void MainWindow::set_status(){
     QDateTime dze;
-    dze.setDate(QDate(2021,8,30));
+    dze.setDate(QDate(2021,9,30));
 
     int daysto=-dze.daysTo(QDateTime::currentDateTime());
 
